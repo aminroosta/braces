@@ -1,0 +1,14 @@
+[package]
+description = "bash brace expansion"
+name = "braces"
+version = "0.0.0"
+authors = ["amin roosta @amnrst"]
+edition = "2018"
+license = "MIT"
+homepage = "https://github.com/aminroosta/braces"
+repository = "https://github.com/aminroosta/braces"
+readme = "README.md"
+keywords = [ "bash", "brace", "expansion" ]
+categories = [ "text-processing", "parsing" ]
+
+[dependencies]
